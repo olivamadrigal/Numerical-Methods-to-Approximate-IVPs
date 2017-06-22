@@ -1,8 +1,7 @@
 # Numerical-Methods-to-Approximate-IVPs
 
-Requires MATLAB. 
 
-Algorithms tested using MATLAB_R2017a
+Algorithms implemented were tested using MATLAB_R2017a
 
 From algorithms file, create separate script for each algorithm with filename as that of the algorithm.
 
