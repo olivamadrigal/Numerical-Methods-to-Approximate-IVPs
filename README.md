@@ -3,7 +3,7 @@
 # ABOUT # 
 Numerical Methods to Approximate Initial Value Problems. 
 
-In the sample given live script, Euler's Method (Taylor Order One), Taylor's Method Order 2, and Runge-Kutta Method Order 4, are called to approximate the solution the differential equation:   y'(t) = 2y = e^t  for  0 <= t <= 3  with initial condition of y(0) = 1. 
+In the given sample live script, Euler's Method (Taylor Order One), Taylor's Method Order 2, and Runge-Kutta Method Order 4, are called to approximate the solution the differential equation:   y'(t) = 2y = e^t  for  0 <= t <= 3  with initial condition of y(0) = 1. 
 
 The specified value of the time-step h is 0.1. 
 
