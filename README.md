@@ -15,6 +15,7 @@ source.m contains all source code to fork. Algorithms implemented were tested us
 2) Create a live script with the live script code provided to test the solution to the IVP above. To test other equations, replace
 variable f with the differential equation in single quotes to be passed as a string; replace variable f1 with the derivate of the differential equation. The later is required for Taylor Order 2 method. 
 
+# RESULTS #
 
-
+results.pdf shows results of the approximationts at each mesh point up to the approximated solution as well a graph of the approximation using each method.
 
