@@ -1,5 +1,6 @@
-# Numerical-Methods-to-Approximate-IVPs
+# Numerical-Methods-to-Approximate-IVPs 
 
+# ABOUT # 
 Numerical Methods to Approximate Initial Value Problems. 
 
 In the sample given live script, Euler's Method (Taylor Order One), Taylor's Method Order 2, and Runge-Kutta Method Order 4, are called to approximate the solution the differential equation:   y'(t) = 2y = e^t  for  0 <= t <= 3  with initial condition of y(0) = 1. 
